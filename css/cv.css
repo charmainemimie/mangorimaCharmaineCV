@@ -1,0 +1,56 @@
+body{
+    padding-left: 90px;
+    padding-right: 90px;
+    }
+
+#header{
+    /*display: grid;
+    grid-template-columns: 2fr 5fr;*/
+    
+    background-color: black;
+    color: white;
+   
+
+}
+
+#image{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+#name{
+    letter-spacing: 0.3em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#occupation{
+    letter-spacing: 0.2em;
+    margin-top: 20px;
+}
+
+#underline{
+    height: 7px;
+    background: #CECED0 ;
+    margin-top: 20px;
+}
+
+#edutitle{
+    background-color: #CECED0 ;;
+    color: black;
+}
+#skillstitle{
+    background-color: #CECED0 ;;
+    color: black;
+}
+#coursestitle{
+    background-color: #CECED0 ;;
+    color: black;
+}
+#proftitle{
+    background-color: #CECED0 ;;
+    color: black;
+}
